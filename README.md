@@ -1,8 +1,8 @@
-##Dashboard de Insumos Agrícolas
+          Dashboard de Insumos Agrícolas
 
 Este projeto é um painel de controle para monitoramento e gestão de insumos agrícolas, permitindo visualizar dados de setores, áreas, técnicos e progresso semanal de vendas.
 
-##Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 React com TypeScript
 
